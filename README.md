@@ -13,7 +13,7 @@ Esta API depende da API Gestão Escolar para validar dados como:
 
 - Python 3
 - Flask
-- SQLite (via SQLAlchemy)
+- SQLite
 - Docker
 
 ## 📁 Estrutura do Projeto
